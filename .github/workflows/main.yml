@@ -8,7 +8,7 @@ on:
       KERNEL_DEFCONFIG:
         description: 'Defconfig'
         required: true
-        default: 'sirius_user_defconfig'
+        default: 'mokee_ocean_defconfig'
 
 jobs:
   build:
